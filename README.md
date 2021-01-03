@@ -7,7 +7,7 @@ Solutions Engineer @Okta - passionate about helping customers creating solutions
 |**Certifications**|Certified Information Systems Security Professional (CISSP) <br/> Okta Certified Professional/Administrator/Consultant/Developer <br/>CA API Management Proven Professional <br/> LPIC 1
 |**DevOps**|Docker, Kubernetes, Jenkins, Jira, Ansible
 |**Development Languages**|Java, C++, JavaScript (Node.js)
-|**Platforms**|Windows, Linux (RHEL and Ubuntu), Android, Solaris
+|**Platforms**|Windows, Linux (RHEL, CentOS, SLES and Ubuntu), Android
 |**Databases**|PostgreSQL, Microsoft SQL Server, MySQL
 |**Other**|API Management, Public Key Infrastructure (PKI), Multi-factor Authentication
 
@@ -78,6 +78,6 @@ Apprenticeship as Industrial Business Management Assistant
 
 [![Xing](https://icons.iconarchive.com/icons/uiconstock/socialmedia/16/Xing-icon.png) Xing](https://www.xing.com/profile/Waldemar_Rosenfeld/cv)
 
-[![GitHub](https://icons.iconarchive.com/icons/limav/flat-gradient-social/16/Github-icon.png) GitHub](https://github.com/)
+[![GitHub](https://icons.iconarchive.com/icons/limav/flat-gradient-social/16/Github-icon.png) GitHub](https://github.com/tux-manchot)
 
 [![StackOverflow](https://icons.iconarchive.com/icons/limav/flat-gradient-social/16/Stackoverflow-icon.png) StackOverflow](https://stackoverflow.com/users/14711938/waldemar)
