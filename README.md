@@ -78,6 +78,8 @@ Apprenticeship as Industrial Business Management Assistant
 
 [![Xing](https://icons.iconarchive.com/icons/uiconstock/socialmedia/16/Xing-icon.png) Xing](https://www.xing.com/profile/Waldemar_Rosenfeld/cv)
 
+[![Twitter](https://icons.iconarchive.com/icons/limav/flat-gradient-social/16/Twitter-icon.png) Twitter](https://twitter.com/tohcnam)
+
 [![GitHub](https://icons.iconarchive.com/icons/limav/flat-gradient-social/16/Github-icon.png) GitHub](https://github.com/tux-manchot)
 
 [![StackOverflow](https://icons.iconarchive.com/icons/limav/flat-gradient-social/16/Stackoverflow-icon.png) StackOverflow](https://stackoverflow.com/users/14711938/waldemar)
