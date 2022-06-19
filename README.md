@@ -1,21 +1,33 @@
 # Waldemar Rosenfeld
-Solutions Engineer @Okta - passionate about helping customers creating solutions for CIAM, IDaaS, and API Access Management
+<img src="https://icons.iconarchive.com/icons/iconsmind/outline/512/Globe-icon.png" width="20" height="20"> <a href="https://ciam.ninja/" style="margin:10px;">ciam.ninja </a> <br/>
+<img src="https://icons.iconarchive.com/icons/limav/flat-gradient-social/512/Github-icon.png" width="25" height="25"> <a href="https://github.com/tohcnam" style="margin:10px;">github.com/tohcnam </a>
+
+Platform Specialist @Okta - passionate about helping customers creating solutions for CIAM, IDaaS, and API Access Management
 
 ## Skills Summary
 |||
 |---|---|
-|**Certifications**|Certified Information Systems Security Professional (CISSP) <br/> Okta Certified Professional/Administrator/Consultant/Developer <br/>CA API Management Proven Professional <br/> LPIC 1
+|**Certifications**|Certified Information Systems Security Professional (CISSP) <br/> Okta Certified Professional/Administrator/Consultant/Developer <br/>Auth0 Specialist and Consumer Application Prototype Champion<br/>CA API Management Proven Professional <br/> LPIC 1
 |**DevOps**|Docker, Kubernetes, Jenkins, Jira, Ansible
 |**Development Languages**|Java, C++, JavaScript (Node.js)
 |**Platforms**|Windows, Linux (RHEL, CentOS, SLES and Ubuntu), Android
 |**Databases**|PostgreSQL, Microsoft SQL Server, MySQL
-|**Other**|API Management, Public Key Infrastructure (PKI), Multi-factor Authentication
+|**Other**|Customer (CIAM) and Workforce IAM, API Management, Public Key Infrastructure (PKI), Multi-factor Authentication
 
 ## Professional Expericience
-### Okta - Solutions Engineer
+### Okta - Platform Specialist CIAM / Solution Engineer
 *April 2020 to present*
 
-Solutions Engineer, supporting in Sales lifecycle as a technical trusted advisor. Understanding issues and creating solutions out of Oktas Identity Cloud. Creating tailored demos and solutions with custom code for use cases around CIAM and API Access Management 
+I joined Okta as a Solution Engineer and progressed as the first Platform Specialist for CIAM in the central Europe region. This role allows me to work with the largest customers for Okta CIAM in DACH and EMEA to present the value of the platform and push the boundaries of Okta and Auth0 implementations. As a specialist I often work throughout the customer lifecycle being brought in to address specific requirements, this requires quickly getting up to speed with a customer's objectives and constraints to be able to present solutions to audiences from developers to C-level executives.
+
+I am supporting the sales lifecycle as a technical trusted advisor. Understanding issues and creating solutions out of Oktas Identity Cloud or Auth0 Identity. Creating tailored demos and solutions with custom code for use cases around CIAM and API Access Management. 
+
+This role includes:
+* Providing custom-tailored demos and full support for PoCs
+* Identification and enabling technical champions from the customer
+* Support for technical discovery, opportunity management, and value presentation
+* Enablement of the pre-sales team around Oktas CIAM solutions
+* Supporting marketing for regional events, like exhibitions, blogs, and webinars
 
 ### APIIDA AG - Professional Services / Product Manager
 *August 2016 to February 2020*
