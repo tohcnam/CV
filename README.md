@@ -7,7 +7,7 @@ Platform Specialist @Okta - passionate about helping customers creating solution
 ## Skills Summary
 |||
 |---|---|
-|**Certifications**|Certified Information Systems Security Professional (CISSP) <br/> Okta Certified Professional/Administrator/Consultant/Developer <br/>Auth0 Specialist and Consumer Application Prototype Champion<br/>CA API Management Proven Professional <br/> LPIC 1
+|**Certifications**|Certified Information Systems Security Professional (CISSP) <br/> Okta Certified Professional/Administrator/Consultant/Developer <br/>Auth0 Specialist and Consumer Application Prototype Champion<br/>AWS Certified Cloud Practitioner<br/>CA API Management Proven Professional <br/> LPIC 1
 |**DevOps**|Docker, Kubernetes, Jenkins, Jira, Ansible
 |**Development Languages**|Java, C++, JavaScript (Node.js)
 |**Platforms**|Windows, Linux (RHEL, CentOS, SLES and Ubuntu), Android
